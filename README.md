@@ -5,6 +5,7 @@ Aspiring Python & AI Developer | Experienced CSE Professional | Research & Busin
 
 
 
+
 👋 Professional Overview
 
 I am an aspiring Python and Artificial Intelligence learner with 2+ years of professional experience as a Customer Support Executive (CSE), primarily working in US shifts. My background combines strong technical curiosity with hands-on experience in customer-facing operations, process handling, and domain-specific support. I bring structured problem-solving, business awareness, and communication expertise to both technical and non-technical environments.
@@ -33,6 +34,7 @@ Understanding of Security Tools & User Protection Concepts
 
 
 
+
 💼 Professional Experience
 Customer Support Executive (CSE) — 2+ Years
 
@@ -51,6 +53,7 @@ Maintained professional communication under high-pressure scenarios
 Followed compliance, data security, and quality guidelines
 
 Delivered executive-level support and issue resolution
+
 
 
 
@@ -74,6 +77,7 @@ Creative Artwork & Design Thinking
 
 
 
+
 📂 Projects
 
 Projects will be added as I continue developing my technical skill set.
@@ -90,6 +94,7 @@ Business and customer-support-focused tech solutions
 
 
 
+
 🎯 Career Objectives
 
 Transition from operations-focused roles into technology and AI-driven solutions
@@ -102,9 +107,11 @@ Grow into a technically strong professional with leadership impact
 
 
 
+
 📈 Learning & Work Philosophy
 
 I believe in continuous learning, clear communication, and practical execution. My goal is to merge technical knowledge, business understanding, and customer-centric thinking to build efficient and scalable solutions.
+
 
 
 
